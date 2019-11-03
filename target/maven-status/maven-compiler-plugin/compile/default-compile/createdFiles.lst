@@ -1,0 +1,6 @@
+com\test\model\Category.class
+com\test\controller\CategoryController.class
+com\test\model\Result.class
+com\test\Application.class
+com\test\repository\CategoryRepository.class
+com\test\model\ModuleResult.class

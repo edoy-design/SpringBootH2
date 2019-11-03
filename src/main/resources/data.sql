@@ -1,0 +1,3 @@
+INSERT INTO `category_user`(`id`, `event1`, `event2`, `event3`, `event4`, `event5`) values(1, 'Promo', 'Category', 'FlashSale', 'History','News');
+INSERT INTO `category_user`(`id`, `event1`, `event2`, `event3`, `event4`, `event5`) values(2, 'Promo', 'News', 'FlashSale', 'Category', 'News');
+INSERT INTO `category_user`(`id`, `event1`, `event2`, `event3`, `event4`, `event5`) values(3, 'Promo', 'FlashSale', 'Category', 'News','History');
